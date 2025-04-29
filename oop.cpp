@@ -15,7 +15,6 @@ void PrintData(){
 };
 
 int main(){
-    
     Mahasiswa mhs;
     mhs.Nim = 123;
     mhs.Nama = "Raja";
