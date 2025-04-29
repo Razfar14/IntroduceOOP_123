@@ -12,7 +12,7 @@ void PrintData(){
     cout << "Nama :" << Nama << endl;
     cout << "Nilai :" << Nilai << endl;
     }
-}
+};
 
 int main(){
     Mahasiswa mhs;
